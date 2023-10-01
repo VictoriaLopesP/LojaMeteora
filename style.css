@@ -1,0 +1,24 @@
+.texto-menor {
+    font-size: 13px;
+}
+
+.divs-facilidades {
+    width: 325px;
+}
+
+.cor-btn {
+    background-color:  #9353FF;
+}
+
+.divs-facilidades i {
+    color: #DAFF01;
+}
+
+.cor-texto {
+    color: #DAFF01;
+}
+
+.botao-chato:hover {
+    background-color: #0d6efd;
+}
+
